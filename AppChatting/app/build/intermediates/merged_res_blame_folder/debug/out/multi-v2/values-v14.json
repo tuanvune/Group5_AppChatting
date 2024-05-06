@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AppChatting\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\fa5587b530a24b73dfb101e2303bee33\\transformed\\jetified-simplealertdialog-1.2.1\\res\\values-v14\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,280",
+                        "endColumns": "87,99",
+                        "endOffsets": "275,375"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,143",
+                        "endColumns": "87,99",
+                        "endOffsets": "138,238"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tbSearch"
+        app:navigationIcon="@drawable/ic_back"
+        android:background="#F44336"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/edtSearch"
+                android:drawablePadding="10dp"
+                android:hint="Search here..."
+                android:paddingLeft="10dp"
+                android:drawableStart="@drawable/ic_search_1"
+                android:layout_width="280dp"
+                android:layout_height="40dp"
+                android:background="@drawable/custom_bg_edit_search"/>
+        </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvSearch"
+        android:layout_margin="5dp"
+        android:layout_below="@id/tbSearch"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</RelativeLayout>

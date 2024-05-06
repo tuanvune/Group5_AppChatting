@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F44336">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:id="@+id/toolbar"
+        android:layout_height="wrap_content"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ciEdit"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <RelativeLayout
+        android:layout_marginTop="50dp"
+        android:background="@drawable/custom_bg"
+        android:layout_below="@id/ciEdit"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/edtUsername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/custom_edt"
+            android:fontFamily="@font/aclonica"
+            android:hint="Username"
+            android:minHeight="50dp"
+            android:paddingLeft="20dp" />
+        <EditText
+            android:layout_below="@id/edtUsername"
+            android:fontFamily="@font/aclonica"
+            android:paddingLeft="20dp"
+            android:hint="Status"
+            android:minHeight="50dp"
+            android:background="@drawable/custom_edt"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/edtStatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/btnEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/edtStatus"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/custom_btn"
+            android:fontFamily="@font/aclonica"
+            android:text="update"
+            android:textAllCaps="true"
+            android:textColor="@drawable/custom_color"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

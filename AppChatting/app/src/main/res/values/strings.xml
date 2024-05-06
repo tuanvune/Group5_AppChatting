@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">chatapp</string>
+    <string name="intro">XIN CHÀO</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="facebook_app_id">566843904899688</string>
+    <string name="fb_login_protocol_scheme">fb566843904899688</string>
+    <string name="facebook_client_token">fc6b738cc7789b6d93aaaeef7c2766af</string>
+</resources>

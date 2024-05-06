@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_contact.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background.png.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\background.png"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_bg_msg_left.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\custom_bg_msg_left.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_fb.png.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\fb.png"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_phone.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\menu_options_menu.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_bg_edit_search.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\custom_bg_edit_search.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\menu_options_menu_search.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\menu\\options_menu_search.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_group.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\fragment_group.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_chat.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search_1.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_search_1.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_editprofile.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\activity_editprofile.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_google.png.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\google.png"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_signin.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\fragment_signin.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_bg_ci.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\custom_bg_ci.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_intro.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bb.jpg.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\bb.jpg"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\font_aclonica.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_user.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_person_24.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_info_24.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_items_row_left_message.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\items_row_left_message.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_search.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\menu_options_menu_info.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\menu\\options_menu_info.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_edt.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\custom_edt.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_items_row_right_message.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\items_row_right_message.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_chat.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_logout.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_bg_msg_right.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\custom_bg_msg_right.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_person_outline_24.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_message.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_items_groupchat.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\items_groupchat.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_bg.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\custom_bg.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_key.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_key.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_signup.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_mail.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_mail.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_person_profile.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_person_profile.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_mail_outline_24.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\ic_baseline_mail_outline_24.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_btn.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\custom_btn.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_info_24.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_info_24.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_security_24.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AppChatting\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_person.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_color.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\custom_color.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_twitter.png.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable-v24\\twitter.png"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\layout_items_row_search.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\layout\\items_row_search.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_supervised_user_circle_24.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\ic_baseline_supervised_user_circle_24.xml"
+    },
+    {
+        "merged": "D:\\AppChatting\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_edt_message.xml.flat",
+        "source": "D:\\AppChatting\\app\\src\\main\\res\\drawable\\custom_edt_message.xml"
+    }
+]
